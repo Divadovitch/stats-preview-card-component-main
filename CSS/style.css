@@ -8,8 +8,6 @@
 
   /* neutral */
   --color-white: hsl(0, 0%, 100%);
-  --color-white-alpha7: hsla(0, 0%, 100%, 0.75);
-  --color-white-alpha6: hsla(0, 0%, 100%, 0.6);
 
   /* font-family */
   --ff-primary: "Inter", sans-serif;
