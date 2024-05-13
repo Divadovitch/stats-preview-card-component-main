@@ -76,7 +76,7 @@ body{
   flex-direction: column;
   justify-content: space-around;
 }
-.textes--accent{
+.text--accent{
   color: var(--color-accent);
 }
 .card__infos__title{
